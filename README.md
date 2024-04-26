@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-    <img src="logoapk.png" width="100" height="100" />
-</div>
+<p align="center">
+    <img src="logoapk.png" width="120" height="120" />
+</p>
 
 # TransGeo App
 TransGeo is learning media android platform to analyze the mathematical ability of students with relational thinking skills in geometry transformation material. This repo is based on our research in the competition of PKM 2021.
